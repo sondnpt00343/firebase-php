@@ -1,8 +1,8 @@
 {
-    "name": "kreait/firebase-php",
+    "name": "sondnpt00343/firebase-php",
     "description": "Firebase Admin SDK",
     "keywords": ["firebase", "google", "sdk", "api", "database"],
-    "homepage": "https://github.com/kreait/firebase-php",
+    "homepage": "https://github.com/sondnpt00343/firebase-php",
     "license": "MIT",
     "authors": [
         {
@@ -12,9 +12,8 @@
     ],
     "support": {
         "docs": "https://firebase-php.readthedocs.io",
-        "issues": "https://github.com/kreait/firebase-php/issues",
-        "source": "https://github.com/kreait/firebase-php",
-        "chat": "https://discord.gg/Yacm7unBsr"
+        "issues": "https://github.com/sondnpt00343/firebase-php/issues",
+        "source": "https://github.com/sondnpt00343/firebase-php"
     },
     "require": {
         "php": "^7.4|^8.0",
